@@ -26,7 +26,7 @@ const frameworks = {
   title: 'TOOLS & FRAMEWORKS',
   itens: [
     { name: 'ANGULAR', percent: '70%'}, 
-    { name: 'REACT.JS', percent: '55%'}, 
+    { name: 'REACT.JS', percent: '10%'}, 
     { name: 'VUE.JS', percent: '10%'}, 
     { name: 'JQUERY', percent: '80%'}
   ],
